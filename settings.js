@@ -1,9 +1,9 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//base by WOLF (Xeon Bot Inc.)
+//YouTube: @W00lf_12
+//Instagram: none
+//Telegram: t.me/@W0lf_4
+//GitHub: @Prince-luck
+//WhatsApp: +2347045305132
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -12,7 +12,7 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "2347045305132"
 global.ownername = "🦄Wolf"
-global.ytname = "YT: Xeon"
+global.ytname = "YT: W00lf_12"
 global.socialm = "GitHub: Prince-luck"
 global.location = "Nigeria, Lagos"
 
@@ -22,7 +22,7 @@ global.botname = 'Wølf ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄wolf\n\nContact: +916909137213'
+global.author = '🦄wolf\n\nContact: +2347045305132'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -59,10 +59,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
+    prem: 'This feature can be used by Alpha wolf or premium user only',
+    admin: 'This feature can be used Wolf by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by wolf owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
