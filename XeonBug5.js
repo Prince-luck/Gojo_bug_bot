@@ -1,11 +1,10 @@
-//base by DGXeon (Xeon Bot Inc.)
-//re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//base by wolf (Xeon Bot Inc.)
+//YouTube: @W00lf_12
+//Instagram: none
+//Telegram: t.me/@W0lf_4
+//GitHub: @Prince-luck
+//WhatsApp: +2347045305132
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@W00lf_12
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
