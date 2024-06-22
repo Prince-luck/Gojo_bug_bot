@@ -1,5 +1,5 @@
 {
-    "name": "XBug-Bot",
+    "name": "wolf-Bot",
     "version": "5.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "main.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "wolf",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
