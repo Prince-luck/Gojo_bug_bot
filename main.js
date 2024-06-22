@@ -1,10 +1,10 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//base by wolf (Xeon Bot Inc.)
+//YouTube: @W00lf_12
+//Instagram: none
+//Telegram: t.me/@W0lf_4
+//GitHub: @Prince-luck
+//WhatsApp: +2347045305132
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@W00lf_12
 
 require('./settings')
 const pino = require('pino')
@@ -31,7 +31,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "916909137213"
+let phoneNumber = "2347045305132"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -175,9 +175,9 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Xeon`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: DGXeon `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @unicorn_xeon13 `))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: W00lf_12`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: Prince-luck `))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @none `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
         }
