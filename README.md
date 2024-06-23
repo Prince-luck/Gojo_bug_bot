@@ -51,8 +51,8 @@
 break
    
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD11.git
-cd CheemsBot-MD11
+git clone https://github.com/Prince-luck/Gojo_bug_bot
+cd Gojo_bug_bot
 
 npm start
 ```
@@ -68,8 +68,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD11
-cd CheemsBot-MD11
+git clone https://github.com/Prince-luck/Gojo_bug_bot
+cd Gojo_bug_bot
 yarn install
 npm start
 ```
@@ -81,8 +81,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD11
-cd CheemsBot-MD11
+git clone https://github.com/Prince-luck/Gojo_bug_bot
+cd Gojo_bug_bot
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
